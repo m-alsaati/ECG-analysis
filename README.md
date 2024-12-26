@@ -25,3 +25,25 @@ After going through all steps of filtering, the signal-to-noise ratio (SNR) is i
 #### Moving Window Integrator
 <img src="https://github.com/user-attachments/assets/0936da3c-6cfe-48f7-8125-47e2d419c784" width="400" height="300">
 <img src="https://github.com/user-attachments/assets/284ec13a-7900-4eae-aa69-9728fad3367f" width="400" height="300">
+
+### Plots of Raw and Filtered/Processed ECG
+#### Example ECG 1
+<img src="https://github.com/user-attachments/assets/e30729f8-412f-4a5a-8673-7a669ac72eb6" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/b1884a59-7d85-4985-b2eb-e1b02e1e2c75" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/862235fe-cf69-4283-aef1-320b2df950aa" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/13410ed7-b654-4977-ad41-ee12f12b7679" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/5d12fe4c-cd85-4c90-bb21-5b2aba28a01f" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/a4b54489-143c-4dfe-9771-8da1683990d9" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/64e52a78-6378-4bdd-8635-90403f4abd08" width="400" height="300">
+
+#### Example ECG 2
+<img src="https://github.com/user-attachments/assets/3ef4444b-55ad-42f1-bd8c-d86e2c4fc56b" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/f1312fe1-2a75-46e0-ac79-a1cca5fae991" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/3d7716bd-903a-4f0d-83bf-c8a7946f5048" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/76bbbf5c-289c-4f26-a56e-1b886f99cb53" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/db68ecd8-9568-45d5-9795-0c029feedab0" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/4cda9b69-592e-48db-91d5-dfe766ccbb6d" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/c2371cbb-7f22-4919-b256-acbaae8322f8" width="400" height="300">
+
+### Results and Parameters
+<img src="https://github.com/user-attachments/assets/c847dc9f-9311-4f5d-8ffb-741288107408" width="400" height="115">
